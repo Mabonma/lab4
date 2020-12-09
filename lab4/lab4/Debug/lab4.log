@@ -1,0 +1,4 @@
+﻿  lab4.cpp
+D:\BSUIR\Course 1\OOP\Labs\lab4\lab4\lab4.cpp(46): warning C4715: 'TypeInher': not all control paths return a value
+D:\BSUIR\Course 1\OOP\Labs\lab4\lab4\lab4.cpp(221): warning C4715: 'TypeOfScript': not all control paths return a value
+D:\BSUIR\Course 1\OOP\Labs\lab4\lab4\lab4.cpp(186): warning C4715: 'ScriptTarget': not all control paths return a value
